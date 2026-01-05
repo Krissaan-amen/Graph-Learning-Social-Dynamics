@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Theory-red?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ## 📖 Overview
 
