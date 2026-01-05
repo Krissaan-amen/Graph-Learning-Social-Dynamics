@@ -86,7 +86,7 @@ Binary attributes were recovered with much higher success than high-cardinality 
 ### Installation
 
 ```bash
-git clone https://github.com/Krissaan-amen/facebook100-graph-learning.git
+git clone https://github.com/Krissaan-amen/Graph-Learning-Social-Dynamics.git
 cd facebook100-graph-learning
 pip install -r requirements.txt
 ```
