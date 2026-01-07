@@ -4,13 +4,13 @@
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Theory-red?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## 📖 Overview
+## Overview
 
 This project implements a comprehensive **Network Science and Graph Learning** pipeline to analyze social structures within the **Facebook100 (FB100)** dataset. The FB100 dataset contains complete friendship networks from 100 U.S. universities from September 2005, providing a rich benchmark for analyzing social dynamics, homophily, and community structure.
 
 The analysis focuses on uncovering latent patterns in social graphs through structural property analysis, link prediction algorithms, and semi-supervised attribute inference.
 
-## 📊 Dataset
+## Dataset
 
 **Source**: The [Facebook100 Dataset](https://archive.org/details/oxford-2005-facebook-matrix) (Traud et al., 2012).
 *   **Scale**: 100 separate university networks.
@@ -20,7 +20,7 @@ The analysis focuses on uncovering latent patterns in social graphs through stru
 
 > **Note**: This repository uses the anonymized version of the dataset for educational and research purposes.
 
-## 🛠️ Project Objectives & Methodology
+## Project Objectives & Methodology
 
 ### 1. Social Network Analysis (SNA)
 Exploratory analysis of fundamental graph properties to characterize the topology of social interactions.
@@ -45,7 +45,7 @@ Recovering missing node attributes using graph structure and the principle of ho
 ### 5. Community Detection
 Detecting latent social groups using **Louvain Modularity Optimization** and validating them against ground-truth labels like *Dormitory* (spatial) or *Class Year* (temporal).
 
-## 📈 Key Findings & Results
+## Key Findings & Results
 
 ### 1. Network Topology (Selected Universities)
 Small, residential colleges (like Caltech) exhibit significantly higher density and clustering than large universities, reflecting a tighter "small-world" community structure.
@@ -97,7 +97,7 @@ Run the main analysis notebook to reproduce the results:
 jupyter notebook main.ipynb
 ```
 
-## 📚 References
+## References
 
 *   **Traud, A. L., Mucha, P. J., & Porter, M. A. (2012).** *Social structure of Facebook networks.* Physica A: Statistical Mechanics and its Applications, 391(16), 4165-4180.
 *   **Newman, M. E. J. (2003).** *The structure and function of complex networks.* SIAM Review.
